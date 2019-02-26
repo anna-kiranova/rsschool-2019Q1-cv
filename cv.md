@@ -32,5 +32,5 @@ OJSC "BNB-Bank" (_Belarusky narodny bank_)
 ## Languages
 I speak:
 * English - certificate B1(intermediate) 
-* French (advanced study at the gymnasius and at the university)
+* French (advanced study at the gymnasium and at the university)
 * Italian
