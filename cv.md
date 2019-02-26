@@ -1,5 +1,5 @@
 # Anna Kiranova
-Minsk, :telephone_receiver: +375 44 576-88-89, :email: anne.kiranova@gmail.com, :octocat: [GitHub](https://github.com/anna-kiranova)
+Minsk, +375 44 576-88-89, anne.kiranova@gmail.com, [GitHub](https://github.com/anna-kiranova)
 
 ## Objective
 Start a career of junior front-end developer
