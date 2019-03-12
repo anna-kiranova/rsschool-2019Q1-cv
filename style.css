@@ -100,3 +100,7 @@ a.link:visited {
 .no-underline {
   text-decoration: none;
 }
+
+.author {
+  color: #ffffff;
+}
