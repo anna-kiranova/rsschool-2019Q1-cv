@@ -80,6 +80,10 @@ a.link:visited {
   color: #257a53;
 }
 
+a.link:hover {
+  color: #8be1e0;
+}
+
 .h2 {
   font-size: 28px;
   color: #257a53;
