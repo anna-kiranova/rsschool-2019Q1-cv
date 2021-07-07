@@ -1,0 +1,110 @@
+body {
+  margin: 0px;
+  font-family: 'Lato', sans-serif;
+}
+
+.page {
+  min-width: 1024px;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.header {
+  background-image: url('./assets/13.jpg');
+  background-repeat: repeat-x;
+  background-position: 50%;
+  padding-top: 20px;
+}
+
+.footer {
+  padding: 20px 0px;
+  font-size: 18px;
+  background-color:#48c9ab;
+}
+
+.about {
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.person-info {
+  width: 30%;
+
+}
+
+.person-foto {
+  width: 40%;
+  margin-bottom: 20px;
+  background-image: url('./assets/foto.jpeg');
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
+
+.name {
+  margin-top: 0px;
+  font-size: 45px;
+  color: #483c40;
+}
+
+.about-info {
+  display: flex;
+  height: 300px;
+}
+
+.foto {
+  height: 300px;
+}
+
+.contact-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.contact-list li {
+  margin-top: 20px;
+  font-weight: bold;
+  color: #483c40;
+}
+
+.link {
+  color: #483c40;
+}
+
+a.link:visited {
+  color: #257a53;
+}
+
+a.link:hover {
+  color: #8be1e0;
+}
+
+.h2 {
+  font-size: 28px;
+  color: #257a53;
+}
+
+.main-link {
+  color: #4cd989;
+}
+
+.text {
+  font-size: 19px;
+}
+
+.list {
+  font-size: 19px;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.author {
+  color: #ffffff;
+}
